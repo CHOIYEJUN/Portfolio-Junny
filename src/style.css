@@ -884,7 +884,7 @@ div.button-weblink {
 #testimionals h2 {
 	font-weight: 700;
 	color: #fff;
-	margin-top: 22px;
+	margin-top: 70px;
 	padding-bottom: 10px;
 	text-align: center;
 }
@@ -892,7 +892,7 @@ div.button-weblink {
 .testimionals-bg {
 	width: 100%;
 	height: auto;
-	background: url(./img/footer.jpg) no-repeat center center scroll;
+	background: url(./img/backImg2.jpg) no-repeat center center scroll;
 	background-size: cover;
 	-o-background-size: cover;
 }
