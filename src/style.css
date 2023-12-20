@@ -20,6 +20,10 @@ h2 {
 	text-transform: lowercase;
 }
 
+.img-responsive.appImg {
+	width: 28%;
+}
+
 h2:after {
 	content: '';
 	width: 50px;
