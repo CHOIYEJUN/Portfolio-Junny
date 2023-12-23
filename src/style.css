@@ -291,7 +291,7 @@ span.city {
 	font-weight: bold;
 }
 
-@media (min-width: 768px) {
+@media (min-width: 1000px) {
 	.intro {
 		height: 100%;
 		padding: 0;
@@ -768,7 +768,7 @@ li.portfolio-tag {
 	font-family: 'Montserrat', sans-serif;
 	font-weight: 700;
 	color:#48b4ab;
-	display: inline;
+	display: inline-block;
 	border: 2px solid#48b4ab;
 	padding: 8px;
 }
@@ -977,7 +977,7 @@ footer a:visited footer a:focus {
 
 /*/ media queries /*/
 
-@media only screen and (max-width: 480px) {
+@media only screen and (max-width: 1000px) {
 	.brand-heading {
 		font-size: 85px;
 		margin-top: 10%;
